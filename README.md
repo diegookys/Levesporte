@@ -1,6 +1,5 @@
 
- ![letter l logo](https://github.com/diegookys/Levesporte/assets/133829130/d0ca56ab-093f-468f-aadf-773a3ca18fd4)
-
+   ![Levesporte LOGO](https://github.com/diegookys/Levesporte/assets/133829130/e5490ade-3165-4ca0-a98b-38c89e3b4538)
 # Levesporte
 
 Neste repositório, apresentaremos uma visão geral e os principais objetivos do aplicativo
